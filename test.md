@@ -25,7 +25,7 @@ Your company has enabled the Email-to-Case feature in Salesforce. As a customer 
 
 ## Useful links and resources
 
-[EmailMessage](https://codepen.io/SoumyajitChand/pen/wjKVed](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_emailmessage.htm )
+[EmailMessage](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_emailmessage.htm )
 
 ## Example projects
 
